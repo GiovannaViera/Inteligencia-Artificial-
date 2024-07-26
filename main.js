@@ -1,3 +1,5 @@
+
+
 const perguntas = [
  pergunta1 {
     
@@ -28,9 +30,11 @@ pergunta2{
     texto:"Não",
     afirmacao:"Você é uma anomalia do universo"
     }]
-        
-        
-    
+      
+}
+
+]
+
+function mostraPergunta(){
 
 }
-]
